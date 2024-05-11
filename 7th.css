@@ -1,0 +1,29 @@
+.preperations{
+    background-color: rgb(234, 206, 210);
+}
+h2{
+    color: brown;
+}
+h3{
+    color: plum;
+}
+h1{
+    text-decoration: dashed;
+}
+.Ingredients{
+    background-color: white;
+}
+td{
+    color: brown;
+    text-align: center;
+}
+img{
+    width: 50%;
+   margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+}
+span{
+    color: brown;
+}
